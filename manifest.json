@@ -1,0 +1,10 @@
+{
+  "name": "Sentinella Temporali",
+  "short_name": "Sentinella",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "lang": "it-IT",
+  "icons": []
+}
